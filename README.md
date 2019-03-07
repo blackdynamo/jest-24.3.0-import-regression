@@ -1,3 +1,5 @@
+https://github.com/facebook/jest/issues/8080
+
 ### Steps to reproduce regression
 
 1. cd jest-24.3.0
